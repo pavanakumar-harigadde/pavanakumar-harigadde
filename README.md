@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an MCA student!<br>I'm passionate about software development.<br>I will be adding my projects soon!<br>I'm happy to learn and work together.
+An MCA student, having good interest in software development and emerging technolgies. I enjoy solving problems and building eficient solutions. With hands-on experience in Data Structures and web applications, I am actively preparing myself for a career in the IT industry.<br><br>- An **MCA** student at **PES University**!<br>- A B.Sc.(CS) graduate from **Karantaka University, Dharawad**<br><br>- I will be adding my projects here soon!<br>- I'm happy to learn and work together.<br>- Contact me at **pavanakumarharigadde@gmail.com**
 
 
 ## 🌐 Socials:
