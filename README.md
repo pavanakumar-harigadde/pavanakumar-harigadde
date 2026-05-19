@@ -10,7 +10,7 @@ An MCA student, having good interest in software development and emerging techno
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pavanakumar-harigadde&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pavanakumar-harigadde&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanakumar-harigadde&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanakumar-harigadde&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pavanakumar-harigadde&theme=dark&no-frame=false&no-bg=true&margin-w=4)
